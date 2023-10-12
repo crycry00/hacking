@@ -1,0 +1,9 @@
+.bg {
+    background: url(bg.jpg);
+    background-repeat: repeat;
+}
+
+.bg2 {
+    background: url(bg2.jpg);
+    background-repeat: repeat;
+}
